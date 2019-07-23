@@ -8,4 +8,4 @@ Accuracy for 023678 network: 99.147%
 Also added code to check activations of convolutional and pooling layers, kernals for convolution layers and the execution graph.
 
 # Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
+[Renu Rani](https://github.com/techiepanda)
